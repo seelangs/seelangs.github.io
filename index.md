@@ -6,13 +6,6 @@ layout: default
 
 Thank you for your interest in SEELANGS, the Slavic and East European Languages and Literatures discussion list.
 
-This document contains the following items:
-
-[What is SEELANGS](#what-is-seelangs)
-[SEELANGS List Use Guidelines](#general-guidelines)
-[Instructions for Posting](#posting-to-seelangs)
-[Instructions for Configuring Your SEELANGS Subscription Settings](#iu-list-web-interface)
-
 ## What is SEELANGS?
 
 

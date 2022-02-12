@@ -20,7 +20,16 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+
+        <ul class="navigation">
+			<li>[What is SEELANGS](#what-is-seelangs)</li>
+			<li>[SEELANGS List Use Guidelines](#general-guidelines)</li>
+			<li>[Instructions for Posting](#posting-to-seelangs)</li>
+			<li>[Instructions for Configuring Your SEELANGS Subscription Settings](#iu-list-web-interface)</li>
+		
+        </ul>
         {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
@@ -40,7 +49,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-    
+        
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
