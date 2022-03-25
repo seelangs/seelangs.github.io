@@ -108,11 +108,6 @@ If you choose to use this method, send the command  SET seelangs-l SUMMARY in an
 NOTE: If you choose to use this method of delivery, you must also register an IU List password, as described above near the top of the Welcome message. The first time you click to read one of the posts you will be prompted for your subscription address and IU List password. However, once you enter that information and click the Login button, your information is saved in a cookie on your hard drive and you will not be bothered with that intermediate step again (unless you change subscription addresses or log in from a different computer).
 
 
-#### Switching Back
-Should you choose to use DIGEST or SUMMARY and later decide to switch back to the default method of receiving list mail, send the command SET seelangs-l MAIL in an e-mail to: list@list.indiana.edu
- 
-NOTE:  You must send a *new* e-mail to that address if you’d like to use one of these options.  Replying to this message will not work.
-
 ### Changing Your Email Address with SEELANGS
 If you want your SEELANGS mail sent to a new address, you do not have to re-subscribe. There are two ways to go about changing your subscription address.
  
@@ -140,7 +135,7 @@ You can also unsubscribe under “Subscriber Options” on the IU List web inter
 
 
 ### Renewing Your Subscription to SEELANGS
-Your SEELANGS subscription never expires and you will never be asked to renew. LISTSERV assumes that if you remain subscribed then you want to remain subscribed. However, every three months, LISTSERV will check to see whether you’re still receiving mail at your subscription address. If it detects a permanent problem, LISTSERV will automatically remove you from the list. Likewise, if SEELANGS mail sent to you starts to bounce back as undeliverable, LISTSERV will check to see whether the problem is permanent. If it is, or if more than 200 error messages are received, LISTSERV will remove you from the list. If you should ever find yourself accidentally removed from the list, you may simply resubscribe.
+Your SEELANGS subscription never expires and you will never be asked to renew. IU List assumes that if you remain subscribed then you want to remain subscribed. However, if SEELANGS mail sent to you starts to bounce back as undeliverable, IU List will check to see whether the problem is permanent. Depending on the nature of the problem and number of errors, IU List may send you a notification or automatically remove you from the list. If you should ever find yourself accidentally removed from the list, you may simply resubscribe.
 
 ## Searching the SEELANGS Archives
 All messages posted to SEELANGS are archived and the archives can be searched by any list member. The steering committee is currently working on updating the archiving process and the search protocols that go with it. We hope to have these ready for use by summer 2022. 
