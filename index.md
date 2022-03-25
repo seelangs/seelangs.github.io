@@ -67,7 +67,7 @@ To utilize IU List's web interface (which is optional but recommended), you must
 Should you ever forget your IU List password, don't panic. Just request a new one by going to this page: <https://list.indiana.edu/sympa/renewpasswd>
 
 ### Email Commands
-If you choose not to utilize the web interface for sending routine commands, you can use e-mail. Single commands can be sent in the subject line (with the body empty), while multiple commands go in the body of the email (with the subject left blank). All commands should be sent to the following address: list@indiana.edu. Command formulas are set out in boldface throughout this message. 
+If you choose not to utilize the web interface for sending routine commands, you can use e-mail. Single commands can be sent in the subject line (with the body empty), while multiple commands go in the body of the email (with the subject left blank). All commands should be sent to the following address: list@list.indiana.edu. Command formulas are set out in boldface throughout this message. 
 
 ### Posting to SEELANGS
 To post to the list, just compose your message and send it to the list address, which is: SEELANGS-l@LIST.indiana.EDU. 
@@ -92,24 +92,24 @@ MAIL is the default option. When your subscription options are set to MAIL, you 
 NOTE: On the web interface, this option is listed as “standard (direct reception).”
 
 #### Digest
-The second option is called digest. If, rather than receive 20 (or so) pieces of mail from the list every day, you’d like to receive only two or three pieces of e-mail in which are bundled all those 20 posts, send the command SET seelangs-l DIGEST in an e-mail to: list@indiana.edu.
+The second option is called digest. If, rather than receive 20 (or so) pieces of mail from the list every day, you’d like to receive only two or three pieces of e-mail in which are bundled all those 20 posts, send the command SET seelangs-l DIGEST in an e-mail to: list@list.indiana.edu.
  
 The number of daily digests you get will depend on how many posts the list receives in a given day and how long they are. Each digest will be no longer than 800 lines of text. When the server reaches that number, it sends out a digest and starts the next one. In other words, the number of daily digests you get from day to day will vary (but will likely not exceed three). As noted above, single commands can be sent in the subject line (with the body empty), while multiple commands go in the body of the email (with the subject left blank)
 
 
 #### Notice
-The third option is called NOTICE. If you would like to receive only the subject line of each posting and not its contents, send the command SET seelangs-l NOTICE in an e-mail to: list@indiana.edu. 
+The third option is called NOTICE. If you would like to receive only the subject line of each posting and not its contents, send the command SET seelangs-l NOTICE in an e-mail to: list@list.indiana.edu. 
 
 #### Summary
 The fourth option is called SUMMARY. If you like the idea of receiving only two or three e-mails per day from the list, but don’t want to have to sift through all 20 (or so) posts, you can have the list server send you only a listing (summary) of the posts distributed that day that includes the message number, the sender, and the subject line for each post. Looking at the listing, you can then decide which messages you want to read. To read a message, click on the message number and the post opens in a web browser window.
  
-If you choose to use this method, send the command  SET seelangs-l SUMMARY in an e-mail to: list@indiana.edu
+If you choose to use this method, send the command  SET seelangs-l SUMMARY in an e-mail to: list@list.indiana.edu
  
 NOTE: If you choose to use this method of delivery, you must also register an IU List password, as described above near the top of the Welcome message. The first time you click to read one of the posts you will be prompted for your subscription address and IU List password. However, once you enter that information and click the Login button, your information is saved in a cookie on your hard drive and you will not be bothered with that intermediate step again (unless you change subscription addresses or log in from a different computer).
 
 
 #### Switching Back
-Should you choose to use DIGEST or SUMMARY and later decide to switch back to the default method of receiving list mail, send the command SET seelangs-l MAIL in an e-mail to: list@indiana.edu
+Should you choose to use DIGEST or SUMMARY and later decide to switch back to the default method of receiving list mail, send the command SET seelangs-l MAIL in an e-mail to: list@list.indiana.edu
  
 NOTE:  You must send a *new* e-mail to that address if you’d like to use one of these options.  Replying to this message will not work.
 
@@ -126,7 +126,7 @@ Explain that you would like your subscription address updated. Remember to inclu
 ### How to Stop the Mail if You're Going Away
 If you’re going away on vacation or will otherwise be away from your computer for any period of time, you may want to stop the list mail from coming while you're gone. There are two ways to do it.
  
-The easiest way is to use e-mail. To stop the mail via e-mail, send the command SET seelangs-l NOMAIL in an e-mail to: list@indiana.edu
+The easiest way is to use e-mail. To stop the mail via e-mail, send the command SET seelangs-l NOMAIL in an e-mail to: list@list.indiana.edu
  
 When you come back and want to start it again, send an email to that same address containing the command SET seelangs-l MAIL
  
@@ -134,7 +134,7 @@ The second way involves making use of the web interface. You will have to be reg
 
 
 ### Unsubscribing from SEELANGS
- If you should ever decide to leave the list permanently, you can unsubscribe by sending the command SIGNOFF seelangs-l in an e-mail to: list@indiana.edu
+ If you should ever decide to leave the list permanently, you can unsubscribe by sending the command SIGNOFF seelangs-l in an e-mail to: list@list.indiana.edu
  
 You can also unsubscribe under “Subscriber Options” on the IU List web interface. Alternatively, if you receive summaries or digests of list posts, you can unsubscribe from the list by clicking the “Unsubscribe” link that appears at the top of these messages.
 
