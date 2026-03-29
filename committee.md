@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# SEELANGS Steering Committee 2021-2022
+# SEELANGS Steering Committee
 
 This committee is responsible for formulating and revising list protocols, strategizing organizational structure, liaising with the major professional associations for Slavic and East European studies, troubleshooting issues that might arise in the moderation of the list, and brainstorming how best to ensure the long-term service of the list to its members.
 
