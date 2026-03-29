@@ -6,8 +6,13 @@ layout: default
 
 Thank you for your interest in SEELANGS, the Slavic and East European Languages and Literatures discussion list.
 
-## What is SEELANGS?
+## Posting to SEELANGS
 
+To post to the list, just compose your message and send it to the list address, which is: SEELANGS-l@list.iu.edu. 
+  
+Whenever you post to the list, you are encouraged to “sign” your submissions by including at the bottom both your name and academic affiliation (if any), so that other list members know who you are.
+
+## What is SEELANGS?
 
 [SEELANGS](https://list.iu.edu/sympa/info/seelangs-l) is the primary professional e-mail discussion list for the field of Slavic and East European Languages, Literatures, and Cultures. At the time of its creation in 1991, SEELANGS was affiliated with the American Association of Teachers of Slavic and East European Languages ([AATSEEL](http://www.aatseel.org/)). That affiliation is no longer official, but an AATSEEL representative serves on the SEELANGS Steering Committee, along with a representative from the Association for Slavic, East European, and Eurasian Studies ([ASEEES](https://www.aseees.org/)). There are also many AATSEEL and ASEEES members subscribed to SEELANGS, including members of the Executive Council and other standing committees.
 
@@ -68,11 +73,6 @@ Should you ever forget your IU List password, don't panic. Just request a new on
 
 ### Email Commands
 If you choose not to utilize the web interface for sending routine commands, you can use e-mail. Single commands can be sent in the subject line (with the body empty), while multiple commands go in the body of the email (with the subject left blank). All commands should be sent to the following address: list@list.iu.edu. Command formulas are set out in boldface throughout this message. 
-
-### Posting to SEELANGS
-To post to the list, just compose your message and send it to the list address, which is: SEELANGS-l@list.iu.edu. 
-  
-Whenever you post to the list, you are encouraged to “sign” your submissions by including at the bottom both your name and academic affiliation (if any), so that other list members know who you are.
  
 ### Options for Receiving SEELANGS Mail
 There are four ways to receive mail from the list:
