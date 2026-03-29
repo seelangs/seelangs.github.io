@@ -19,4 +19,4 @@ This committee is responsible for formulating and revising list protocols, strat
 - Sasha Spektor (University of Georgia)
 - Russell Valentino (Indiana University)
 
-Any one with questions should send an email to the list administration at SEELANGS-l-Request@LIST.Indiana.EDU.
+Any one with questions should send an email to the list administration at seelangs-l-request@list.iu.edu.
