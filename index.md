@@ -14,7 +14,7 @@ Whenever you post to the list, you are encouraged to “sign” your submissions
 
 ## What is SEELANGS?
 
-[SEELANGS](https://list.iu.edu/sympa/info/seelangs-l) is the primary professional e-mail discussion list for the field of Slavic and East European Languages, Literatures, and Cultures. At the time of its creation in 1991, SEELANGS was affiliated with the American Association of Teachers of Slavic and East European Languages ([AATSEEL](http://www.aatseel.org/)). That affiliation is no longer official, but an AATSEEL representative serves on the SEELANGS Steering Committee, along with a representative from the Association for Slavic, East European, and Eurasian Studies ([ASEEES](https://www.aseees.org/)). There are also many AATSEEL and ASEEES members subscribed to SEELANGS, including members of the Executive Council and other standing committees.
+[SEELANGS](https://list.iu.edu/sympa/info/seelangs-l) is the primary professional email discussion list for the field of Slavic and East European Languages, Literatures, and Cultures. At the time of its creation in 1991, SEELANGS was affiliated with the American Association of Teachers of Slavic and East European Languages ([AATSEEL](http://www.aatseel.org/)). That affiliation is no longer official, but an AATSEEL representative serves on the SEELANGS Steering Committee, along with a representative from the Association for Slavic, East European, and Eurasian Studies ([ASEEES](https://www.aseees.org/)). There are also many AATSEEL and ASEEES members subscribed to SEELANGS, including members of the Executive Council and other standing committees.
 
 SEELANGS was hosted for its first 16 years on the LISTSERV server at the City University of New York (CUNY). In March 2007, the list moved to the LISTSERV server at the University of Alabama at Tuscaloosa, where it was hosted with the support of UA instructional technology and list owner Andrew Drozd. In 2021, the [list moved to Indiana University](https://list.iu.edu/sympa/info/seelangs-l), with a new set of list protocols in place, a [steering committee](committee) composed of professionals from the field, and, thanks to the support of Indiana University's [Department of Slavic and East European Languages and Cultures](https://slavic.indiana.edu/), a newly moderated status.
 
@@ -34,7 +34,7 @@ Please note that discussion of discrete political matters is not welcome on SEEL
 
 ### Personal Replies
 
-Because each message sent to the list address is distributed to all list members, personal messages and replies should not be posted. If you wish to reply only to the original sender of a post, make sure your reply is directed to that person and not to the list address (seelangs-l@list.iu.edu). If you wish to contact only one subscriber, yet do not know that person’s personal e-mail address, do not use the list address to write to that individual. Instead, make use of the REVIEW seelangs-l command to receive a list of subscribers or write the list owners for assistance. (More information on sending commands will be provided below.)
+Because each message sent to the list address is distributed to all list members, personal messages and replies should not be posted. If you wish to reply only to the original sender of a post, make sure your reply is directed to that person and not to the list address (seelangs-l@list.iu.edu). If you wish to contact only one subscriber, yet do not know that person’s personal email address, do not use the list address to write to that individual. Instead, make use of the REVIEW seelangs-l command to receive a list of subscribers or write the list owners for assistance. (More information on sending commands will be provided below.)
 
 ### Quoting Text from Original Messages
 Because all posts to SEELANGS are archived, and because even the cloud is finite, subscribers are asked to pay close attention when they reply to messages on the list and quote text. Including brief portions of original messages is fine, as long as it’s done to provide context for the reader and is done selectively. However, quoting entire original messages within the body of replies, when the original messages are more than just a few lines, is prohibited. Not only does it fill up our cloud space with extraneous text, but those list members receiving SEELANGS in DIGEST format are forced to read through the same messages three and four times.
@@ -63,14 +63,14 @@ NOTE: The above guidelines regarding advertising on SEELANGS do not apply to sem
 
 
 ### IU List Web Interface
-As a SEELANGS subscriber, you will communicate with the IU List server when you want to post to the list, alter your subscription options, search the archives, or update your subscription address. There are two ways to communicate with the IU List server: (1) e-mail and (2) web interface. Instructions for using the e-mail method are included in the relevant sections of this message, below. To use the web interface, you will need to go to the IU List website in your web browser:[ https://list.iu.edu/sympa](https://list.iu.edu/sympa)
+As a SEELANGS subscriber, you will communicate with the IU List server when you want to post to the list, alter your subscription options, search the archives, or update your subscription address. There are two ways to communicate with the IU List server: (1) email and (2) web interface. Instructions for using the email method are included in the relevant sections of this message, below. To use the web interface, you will need to go to the IU List website in your web browser:[ https://list.iu.edu/sympa](https://list.iu.edu/sympa)
 
-To utilize IU List's web interface (which is optional but recommended), you must register a password for purposes of authentication and authorization. To register your password, you will need to use your Subscription Address (the e-mail address from which you are currently subscribed to SEELANGS) and a password of your own choosing. You can register an IU List password here: <https://list.iu.edu/sympa/firstpasswd>
+To utilize IU List's web interface (which is optional but recommended), you must register a password for purposes of authentication and authorization. To register your password, you will need to use your Subscription Address (the email address from which you are currently subscribed to SEELANGS) and a password of your own choosing. You can register an IU List password here: <https://list.iu.edu/sympa/firstpasswd>
 
 Should you ever forget your IU List password, don't panic. Just request a new one by going to this page: <https://list.iu.edu/sympa/renewpasswd>
 
 ### Email Commands
-If you choose not to utilize the web interface for sending routine commands, you can use e-mail. Single commands can be sent in the subject line (with the body empty), while multiple commands go in the body of the email (with the subject left blank). All commands should be sent to the following address: list@list.iu.edu. Command formulas are set out in boldface throughout this message. 
+If you choose not to utilize the web interface for sending routine commands, you can use email. Single commands can be sent in the subject line (with the body empty), while multiple commands go in the body of the email (with the subject left blank). All commands should be sent to the following address: list@list.iu.edu. Command formulas are set out in boldface throughout this message. 
  
 ### Options for Receiving SEELANGS Mail
 There are four ways to receive mail from the list:
@@ -83,25 +83,25 @@ There are four ways to receive mail from the list:
  
 4) SUMMARY - A listing of the messages posted is sent to you just one, two, or three times each day. You select from that listing which messages you want to read.
  
-You can alter your subscription options using e-mail, as described below, or you can use the web interface. Use of the web interface assumes that you have already registered an IU List password, as described above. Visit the IU List website, click on the SEELANGS list under “My Lists,” and then click on “Subscriber Options” in the left-hand menu. You can select a delivery option under the section entitled “Receiving mode.”
+You can alter your subscription options using email, as described below, or you can use the web interface. Use of the web interface assumes that you have already registered an IU List password, as described above. Visit the IU List website, click on the SEELANGS list under “My Lists,” and then click on “Subscriber Options” in the left-hand menu. You can select a delivery option under the section entitled “Receiving mode.”
 
 #### Mail
-MAIL is the default option. When your subscription options are set to MAIL, you receive one new e-mail for every message distributed on the list. If you’d like to receive posts from the list in this manner, you need not do anything; you’re already set up.
+MAIL is the default option. When your subscription options are set to MAIL, you receive one new email for every message distributed on the list. If you’d like to receive posts from the list in this manner, you need not do anything; you’re already set up.
 NOTE: On the web interface, this option is listed as “standard (direct reception).”
 
 #### Digest
-The second option is called digest. If, rather than receive 20 (or so) pieces of mail from the list every day, you’d like to receive only two or three pieces of e-mail in which are bundled all those 20 posts, send the command SET seelangs-l DIGEST in an e-mail to: list@list.iu.edu.
+The second option is called digest. If, rather than receive 20 (or so) pieces of mail from the list every day, you’d like to receive only two or three pieces of email in which are bundled all those 20 posts, send the command SET seelangs-l DIGEST in an email to: list@list.iu.edu.
  
 The number of daily digests you get will depend on how many posts the list receives in a given day and how long they are. Each digest will be no longer than 800 lines of text. When the server reaches that number, it sends out a digest and starts the next one. In other words, the number of daily digests you get from day to day will vary (but will likely not exceed three). As noted above, single commands can be sent in the subject line (with the body empty), while multiple commands go in the body of the email (with the subject left blank)
 
 
 #### Notice
-The third option is called NOTICE. If you would like to receive only the subject line of each posting and not its contents, send the command SET seelangs-l NOTICE in an e-mail to: list@list.iu.edu. 
+The third option is called NOTICE. If you would like to receive only the subject line of each posting and not its contents, send the command SET seelangs-l NOTICE in an email to: list@list.iu.edu. 
 
 #### Summary
-The fourth option is called SUMMARY. If you like the idea of receiving only two or three e-mails per day from the list, but don’t want to have to sift through all 20 (or so) posts, you can have the list server send you only a listing (summary) of the posts distributed that day that includes the message number, the sender, and the subject line for each post. Looking at the listing, you can then decide which messages you want to read. To read a message, click on the message number and the post opens in a web browser window.
+The fourth option is called SUMMARY. If you like the idea of receiving only two or three emails per day from the list, but don’t want to have to sift through all 20 (or so) posts, you can have the list server send you only a listing (summary) of the posts distributed that day that includes the message number, the sender, and the subject line for each post. Looking at the listing, you can then decide which messages you want to read. To read a message, click on the message number and the post opens in a web browser window.
  
-If you choose to use this method, send the command  SET seelangs-l SUMMARY in an e-mail to: list@list.iu.edu
+If you choose to use this method, send the command  SET seelangs-l SUMMARY in an email to: list@list.iu.edu
  
 NOTE: If you choose to use this method of delivery, you must also register an IU List password, as described above near the top of the Welcome message. The first time you click to read one of the posts you will be prompted for your subscription address and IU List password. However, once you enter that information and click the Login button, your information is saved in a cookie on your hard drive and you will not be bothered with that intermediate step again (unless you change subscription addresses or log in from a different computer).
 
@@ -111,7 +111,7 @@ If you want your SEELANGS mail sent to a new address, you do not have to re-subs
  
 The first way to update your subscription address is to use the web interface. This method assumes that your current subscription address still exists and you can access it. Assuming you’ve already saved your IU List password, just go to the website, click on your profile in the upper right-hand corner and then select “My preferences” from the drop-down menu. On this page you can enter a new address. Keep in mind that this will update your email address for ALL your IU List subscriptions.
  
-You should avail yourself of the second method only if you can’t get the first one to work for you (e.g., if you don’t have web access or no longer have access to your old e-mail address). The second method involves asking the list owners for help. Write them at the list owners’ address: SEELANGS-l-Request@list.iu.edu
+You should avail yourself of the second method only if you can’t get the first one to work for you (e.g., if you don’t have web access or no longer have access to your old email address). The second method involves asking the list owners for help. Write them at the list owners’ address: SEELANGS-l-Request@list.iu.edu
  
 Explain that you would like your subscription address updated. Remember to include your name and old subscription address in your message. The list owners will then update your subscription address at their earliest convenience. Depending on what else the list owners have going on, this option might take a bit longer than the others.
 
@@ -119,7 +119,7 @@ Explain that you would like your subscription address updated. Remember to inclu
 ### How to Stop the Mail if You're Going Away
 If you’re going away on vacation or will otherwise be away from your computer for any period of time, you may want to stop the list mail from coming while you're gone. There are two ways to do it.
  
-The easiest way is to use e-mail. To stop the mail via e-mail, send the command SET seelangs-l NOMAIL in an e-mail to: list@list.iu.edu
+The easiest way is to use email. To stop the mail via email, send the command SET seelangs-l NOMAIL in an email to: list@list.iu.edu
  
 When you come back and want to start it again, send an email to that same address containing the command SET seelangs-l MAIL
  
@@ -127,7 +127,7 @@ The second way involves making use of the web interface. You will have to be reg
 
 
 ### Unsubscribing from SEELANGS
- If you should ever decide to leave the list permanently, you can unsubscribe by sending the command SIGNOFF seelangs-l in an e-mail to: list@list.iu.edu
+ If you should ever decide to leave the list permanently, you can unsubscribe by sending the command SIGNOFF seelangs-l in an email to: list@list.iu.edu
  
 You can also unsubscribe under “Subscriber Options” on the IU List web interface. Alternatively, if you receive summaries or digests of list posts, you can unsubscribe from the list by clicking the “Unsubscribe” link that appears at the top of these messages.
 
